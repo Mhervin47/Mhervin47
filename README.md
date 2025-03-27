@@ -20,13 +20,28 @@
 ### 🚀 **Skills & Technologies**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+  <img src="https://skillicons.dev/icons?i=c" alt="C" width="50" />
+</a>
+<a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="50" />
+</a>
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" />
+</a>
+<a href="https://www.tensorflow.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="50" />
+</a>
+<a href="https://pytorch.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="50" />
+</a>
+<a href="https://streamlit.io/" target="_blank">
+  <img src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4" alt="Streamlit" width="50" />
+</a>
+<a href="https://aws.amazon.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="50" />
+</a>
+
 </p>
 
 ---
@@ -42,9 +57,11 @@
 ### 📫 **Connect with Me**
 <p align="center">
   <a href="https://www.linkedin.com/in/mhervin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/Mhervin47" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="50" />
+</a>
+<a href="https://github.com/Mhervin47" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" />
+</a>
+
   </a>
 </p>
