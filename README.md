@@ -59,24 +59,7 @@
   <a href="https://www.langchain.com/" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="LangChain" width="50" />
   </a>
-  <a href="https://langchain-ai.github.io/langgraph/" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="LangGraph" width="50" />
-  </a>
-  <a href="https://openai.com/" target="_blank">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" alt="OpenAI" width="50" />
-</a>
-
-<a href="https://huggingface.co/" target="_blank">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/huggingface.svg" alt="Hugging Face" width="50" />
-</a>
-
-<a href="https://www.pinecone.io/" target="_blank">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pinecone.svg" alt="Pinecone" width="50" />
-</a>
-
-<a href="https://weaviate.io/" target="_blank">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/weaviate.svg" alt="Weaviate" width="50" />
-</a>
+  
 </p>
 ---
 
