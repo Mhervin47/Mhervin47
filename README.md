@@ -21,29 +21,39 @@
 
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-  <img src="https://skillicons.dev/icons?i=c" alt="C" width="50" />
-</a>
-<a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
-  <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="50" />
-</a>
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" />
-</a>
-<a href="https://www.tensorflow.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="50" />
-</a>
-<a href="https://pytorch.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="50" />
-</a>
-<a href="https://streamlit.io/" target="_blank">
-  <img src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4" alt="Streamlit" width="50" />
-</a>
-<a href="https://aws.amazon.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="50" />
-</a>
-
+    <img src="https://skillicons.dev/icons?i=c" alt="C" width="50" />
+  </a>
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="50" />
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" />
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="50" />
+  </a>
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="50" />
+  </a>
+  <a href="https://streamlit.io/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4" alt="Streamlit" width="50" />
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="50" />
+  </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="50" />
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="50" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50" />
+  </a>
 </p>
-
 ---
 
 ### 💻 **About Me**
