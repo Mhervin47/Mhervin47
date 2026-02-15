@@ -13,6 +13,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-Machine%20Learning-34a853?style=for-the-badge" alt="Machine Learning">
   <img src="https://img.shields.io/badge/-Deep%20Learning-ff9800?style=for-the-badge" alt="Deep Learning">
+  <img src="https://img.shields.io/badge/-Generative%20AI-7e57c2?style=for-the-badge" alt="Generative AI">
 </p>
  
 ---
@@ -52,6 +53,26 @@
   </a>
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50" />
+  </a>
+
+  <!-- GenAI / RAG -->
+  <a href="https://www.langchain.com/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="LangChain" width="50" />
+  </a>
+  <a href="https://langchain-ai.github.io/langgraph/" target="_blank">
+    <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="LangGraph" width="50" />
+  </a>
+  <a href="https://openai.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=openai" alt="OpenAI" width="50" />
+  </a>
+  <a href="https://huggingface.co/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=huggingface" alt="Hugging Face" width="50" />
+  </a>
+  <a href="https://www.pinecone.io/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=pinecone" alt="Pinecone" width="50" />
+  </a>
+  <a href="https://weaviate.io/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=weaviate" alt="Weaviate" width="50" />
   </a>
 </p>
 ---
