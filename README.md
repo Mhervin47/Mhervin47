@@ -53,19 +53,6 @@
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Mhervin47&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mhervin47&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=Mhervin47&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
 ### Connect
 
 <p align="center">
