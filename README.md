@@ -34,52 +34,19 @@
 
 ---
 
-### Featured Project — DiffDx
-
-An AI-powered medical diagnostic assistant built on an **actor–critic architecture** that conducts and evaluates multi-turn diagnostic conversations.
-
-- **Actor** — a doctor LLM that drives the conversation, tracks a probabilistic differential, and decides when it has enough confidence to stop
-- **Critic** — an evaluator LLM that scores each turn and generates training signal
-- **Stack** — FastAPI · Groq · FAISS + Sentence Transformers · PostgreSQL · Render
-
-<p align="left">
-  <a href="https://github.com/Mhervin47/DiffDx" target="_blank">
-    <img src="https://img.shields.io/badge/Explore%20the%20repo-7e57c2?style=for-the-badge&logo=github&logoColor=white" alt="Explore the repo" />
-  </a>
-</p>
-
----
-
 ### Skills & Technologies
 
-**Languages**
-
-<p align="left">
+<p align="center">
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://skillicons.dev/icons?i=c" alt="C" width="48" /></a>
   <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="48" /></a>
   <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python" width="48" /></a>
-</p>
-
-**ML / Generative AI**
-
-<p align="left">
   <a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="48" /></a>
   <a href="https://pytorch.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="48" /></a>
   <a href="https://www.langchain.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" alt="LangChain" width="48" /></a>
   <a href="https://streamlit.io/" target="_blank"><img src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4" alt="Streamlit" width="48" /></a>
-</p>
-
-**Backend & Data**
-
-<p align="left">
   <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="48" /></a>
   <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="48" /></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="48" /></a>
-</p>
-
-**DevOps & Cloud**
-
-<p align="left">
   <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="48" /></a>
   <a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="48" /></a>
 </p>
