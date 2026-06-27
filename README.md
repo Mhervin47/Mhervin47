@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=34A853&center=true&vCenter=true&width=560&lines=Machine+Learning+%7C+Deep+Learning+%7C+Generative+AI;Building+and+deploying+ML+models;Always+learning%2C+always+building" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=34A853&center=true&vCenter=true&width=720&lines=Machine+Learning+%7C+Deep+Learning+%7C+Generative+AI;Building+and+deploying+ML+models;Always+learning%2C+always+building" alt="Typing SVG" />
   </a>
 </p>
 
