@@ -88,28 +88,6 @@
 </p>
 
 <h2 align="center">
-  <img src="https://api.iconify.design/lucide:bar-chart-3.svg?color=%2334A853" width="26" height="26" align="center" style="vertical-align:middle" />
-  &nbsp;GitHub Stats
-</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mhervin47&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=34A853&icon_color=7e57c2&text_color=c9d1d9" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mhervin47&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=34A853&text_color=c9d1d9" alt="Top Languages" width="38%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mhervin47&theme=radical&hide_border=true&background=0D1117&ring=7e57c2&fire=34A853&currStreakLabel=34A853" alt="GitHub Streak" width="60%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mhervin47&theme=radical&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7e57c2,100:34A853&height=3&width=1000" alt="divider" />
-</p>
-
-<h2 align="center">
   <img src="https://api.iconify.design/lucide:link-2.svg?color=%237e57c2" width="26" height="26" align="center" style="vertical-align:middle" />
   &nbsp;Connect
 </h2>
