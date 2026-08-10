@@ -23,4 +23,4 @@ I implement papers from scratch, measure everything, and publish what survives.
 
 ## Elsewhere
 
-[GitHub](https://github.com/mhervin47) · [LinkedIn](https://linkedin.com/in/mhervin) · [Google Scholar](https://scholar.google.com/citations?user=0pJu0bEAAAAJ&hl=en) · [mhervin0407n@gmail.com](mailto:mhervin0407n@gmail.com)
+[GitHub](https://github.com/mhervin47) · [LinkedIn](https://linkedin.com/in/mhervin) · [Google Scholar](https://scholar.google.com/citations?user=0pJu0bEAAAAJ&hl=en) · 
