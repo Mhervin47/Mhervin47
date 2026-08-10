@@ -28,15 +28,6 @@ One paper published at IEEE CICN 2025, one in preparation, two research internsh
 
 `Python` `PyTorch` `TensorFlow` `Hugging Face` `OpenCV` `scikit-learn` · `C` `C++` `SQL` · `FastAPI` `Flask` · `PostgreSQL` `MongoDB` · `Docker` `Git`
 
-## This repo
-
-Source for **[mhervin.dev](https://mhervin.dev)** — Next.js 16, React 19, Tailwind v4. A static-content architecture, a motion system tuned against Apple's fluid-interface principles, a markdown-backed blog with reading time and a scroll-spy table of contents, and generated OG images.
-
-```bash
-npm install
-npm run dev
-```
-
 ## Elsewhere
 
 [GitHub](https://github.com/mhervin47) · [LinkedIn](https://linkedin.com/in/mhervin) · [Google Scholar](https://scholar.google.com/citations?user=0pJu0bEAAAAJ&hl=en) · [mhervin0407n@gmail.com](mailto:mhervin0407n@gmail.com)
