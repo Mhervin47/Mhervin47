@@ -12,11 +12,6 @@ I implement papers from scratch, measure everything, and publish what survives.
 
 <br />
 
-## Now
-
-Final-year B.Tech (Hons.) CSE — AI & ML at Manipal University Jaipur, targeting **Summer 2027** ML/AI engineering internships.
-
-One paper published at IEEE CICN 2025, one in preparation, two research internships behind me (IIT Dharwad's LIaN Lab, NIT Rourkela), and 17+ architectures implemented from scratch and counting.
 
 ## Focus
 
