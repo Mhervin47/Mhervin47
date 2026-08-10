@@ -10,8 +10,6 @@ I implement papers from scratch, measure everything, and publish what survives.
 
 </div>
 
-<br />
-
 
 ## Focus
 
