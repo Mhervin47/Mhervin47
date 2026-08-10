@@ -6,7 +6,7 @@
 
 I implement papers from scratch, measure everything, and publish what survives.
 
-[mhervin.dev](https://mhervin.dev) · [LinkedIn](https://linkedin.com/in/mhervin) · [Scholar](https://scholar.google.com/citations?user=0pJu0bEAAAAJ&hl=en)
+[mhervin.dev](https://mhervin.dev.vercel.app) · [LinkedIn](https://linkedin.com/in/mhervin) · [Scholar](https://scholar.google.com/citations?user=0pJu0bEAAAAJ&hl=en)
 
 </div>
 
